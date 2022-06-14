@@ -1,0 +1,26 @@
+{
+  "name": "carbonify",
+  "version": "1.0.0",
+  "description": "Carbon Now API written in JavaScript and Puppeteer",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acadevmy/carbonify.git"
+  },
+  "keywords": [
+    "carbon",
+    "code"
+  ],
+  "author": "Devmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acadevmy/carbonify/issues"
+  },
+  "homepage": "https://github.com/acadevmy/carbonify#readme",
+  "dependencies": {
+    "puppeteer": "^14.4.0"
+  }
+}
